@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0de5bad0b12e6ac47b2240121dae14fd, type: 3}
+  m_Name: 3-Skeleton
+  m_EditorClassIdentifier: 
+  side_name: Skeleton
+  creature_type: 
+  description: Gets +1 for each other skeleton on the board.
+  chance_to_spawn: 40
+  soul_power: 1
+  side_image: {fileID: 21300000, guid: 5476f9c675ce6cd49bad0908f395d84e, type: 3}
+  gameObjectForEffect: {fileID: 6525978204836750273, guid: 953d0bc0616be1e49afb5a56580b2fc2, type: 3}

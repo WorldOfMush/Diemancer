@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0de5bad0b12e6ac47b2240121dae14fd, type: 3}
+  m_Name: 10-CosmicHorror
+  m_EditorClassIdentifier: 
+  side_name: Cosmic Horror
+  creature_type: 
+  description: Wow you are lucky! <nl> Gives x4 to score
+  chance_to_spawn: 3
+  soul_power: 0
+  side_image: {fileID: 21300000, guid: ca89d694dc2f1c043be151120e557a65, type: 3}
+  gameObjectForEffect: {fileID: 5828476112762753357, guid: ab92b6e7d930e0d42915b200c0715f8b, type: 3}
